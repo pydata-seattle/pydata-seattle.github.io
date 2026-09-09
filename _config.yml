@@ -1,0 +1,26 @@
+title: PyData Seattle
+description: A community for developers and users of open source data tools in Seattle.
+theme: just-the-docs
+baseurl: ""
+url: "https://seattle.pydata.org"
+
+aux_links:
+  "PyData Seattle on GitHub":
+    - "https://github.com/pydata-seattle"
+  "Meetup":
+    - "https://www.meetup.com/pydata_seattle/"
+
+aux_links_new_tab: true
+
+footer_content: "PyData Seattle is an educational program of <a href='https://numfocus.org/'>NumFOCUS</a>, a 501(c)(3) non-profit organization."
+
+# Enable search
+search_enabled: true
+
+# Color scheme
+color_scheme: light
+
+nav_sort: case_insensitive
+
+plugins:
+  - jekyll-seo-tag
