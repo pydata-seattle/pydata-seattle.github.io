@@ -10,7 +10,7 @@ A community for developers and users of open source data tools in the Pacific No
 
 Want to speak at PyData Seattle? Create an issue — it takes two minutes. 👇
 
-[Propose a Talk](https://forms.gle/8944faWJwnc1ZZUe7){: .btn .btn-primary .mr-2 }
+[Propose a Talk](https://forms.gle/Q2YVWXb6nTFiAxdR7){: .btn .btn-primary .mr-2 }
 [RSVP on Meetup](https://www.meetup.com/pydata_seattle/events/){: .btn .btn-outline }
 
 ---
@@ -32,7 +32,7 @@ We're always looking for talks, tutorials, and lightning talks on:
 - Geospatial, climate, and domain-specific data applications
 - Data visualization
 
-To propose a talk, [fill up the link](https://forms.gle/xGjJfW7fVZy6dzeF8). Please submit at least one week before the meetup date so reviewers have time to respond.
+To propose a talk, [fill up the link](https://forms.gle/Q2YVWXb6nTFiAxdR7). Please submit at least one week before the meetup date so reviewers have time to respond.
 
 ## Volunteering
 
